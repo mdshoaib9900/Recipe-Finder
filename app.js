@@ -1,4 +1,4 @@
-
+const API_KEY="b4b9954a014d4ca4b30d8f17b8fda4ef";
 document.getElementById("findBtn").addEventListener("click", () => {
     const input = document.getElementById("recipe").value.trim();
     if (input === "") {
